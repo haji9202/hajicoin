@@ -1,0 +1,7 @@
+name: HajiCoin
+version: '${project.version}'
+main: hajicoin.hajicoin.main
+api-version: 1.18
+commands:
+  gui:
+    description: show gui
